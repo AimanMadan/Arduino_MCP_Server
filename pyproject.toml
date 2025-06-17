@@ -1,0 +1,11 @@
+[project]
+name = "arduino-mcp"
+version = "0.1.0"
+description = "This is an Arduino MCP server"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "asyncio>=3.4.3",
+    "fastmcp>=2.8.1",
+    "pyfirmata2>=2.5.1",
+]
