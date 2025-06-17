@@ -100,4 +100,4 @@ Now, let's tell Claude Desktop how to connect to our Arduino server.
 
 Have fun controlling your Arduino with AI! This is just the beginning of what you can do!
 
----# Arduino_MCP_Server
+
