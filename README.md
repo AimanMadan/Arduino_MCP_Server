@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aimanmadan-arduino-mcp-server-badge.png)](https://mseep.ai/app/aimanmadan-arduino-mcp-server)
+
 # Arduino MCP Server: Control Your Arduino with AI!
 
 Welcome to the Arduino MCP Server project! This project lets you control an Arduino board from your computer using a special connection called **MCP (Model Context Protocol)**. Think of it like giving instructions to your Arduino using a smart AI assistant!
